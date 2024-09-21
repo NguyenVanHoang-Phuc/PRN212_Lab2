@@ -11,19 +11,20 @@ namespace PRN_Lab2
         static void Main(string[] args)
         {
             /*2.
-            Product product1 = new Product();
-            Product product2 = new Product();
-            product1.input();
-            product2.input();
-            product1.display();
-            product2.display(); */
+            Product pd1 = new Product();
+            Product pd2 = new Product();
+            pd1.input();
+            pd2.input();
+            pd1.display();
+            pd2.display(); */
 
 
             /*3.
-            Product product1 = new Product("iphone",800000,10);
-            Product product2 = new Product("android",500000);
-            product1.display();
-            product2.display();*/
+            Product pd1 = new Product("Tao",120000,5);
+            Product pd2 = new Product("Giay",700000);
+
+            pd1.display();
+            pd2.display();*/
 
 
         }
